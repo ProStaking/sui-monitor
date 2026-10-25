@@ -1,3 +1,14 @@
+## Durable validator payout code
+
+Reviewed payout implementations live in [`payouts/`](payouts/README.md), with
+separate JSM/Cypher policies, offline tests and controlled deployment/recovery
+runbooks. They do not automatically replace the historical scripts below.
+Normal payout execution and cron activation are owner-performed financial steps.
+
+Run offline validation with `python3 -B tests/run_tests.py`.
+
+---
+
 git clone  
 
 edit run.sh to have correct db and table  

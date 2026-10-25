@@ -1,0 +1,7 @@
+{
+  "run_id": "REPLACE_WITH_REVIEWED_RUN_TIMESTAMP",
+  "transaction_digest": "REPLACE_WITH_CONFIRMED_DIGEST",
+  "checkpoint": 0,
+  "state_sha256": "REPLACE_WITH_CANONICAL_JOURNAL_HASH",
+  "history_after_checkpoint": 0
+}
