@@ -1,2 +1,18 @@
 .vscode/settings.json
 .env
+
+# Public payout code; deployment identities and recovery evidence stay local.
+**/deployment.local.json
+**/recovery.local.json
+**/recovery-original-journal.json
+**/__pycache__/
+*.py[cod]
+*.log
+**/.*-payout-state.json
+**/.*-payout.lock
+**/.*-state-*
+**/.cypher-recovery-*
+**/.code-before-*/
+**/.*-code-*/
+**/.install-*
+.DS_Store

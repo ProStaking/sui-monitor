@@ -1,0 +1,9 @@
+{
+  "owner": "REPLACE_WITH_FULL_OWNER_ADDRESS",
+  "recipient": "REPLACE_WITH_FULL_DISTINCT_RECIPIENT_ADDRESS",
+  "hostname": "REPLACE_WITH_EXACT_HOSTNAME",
+  "cli_path": "/opt/sui/bin/sui",
+  "client_config_path": "/etc/sui/client.yaml",
+  "active_env": "mainnet",
+  "rpc_url": "https://fullnode.mainnet.sui.io:443"
+}
